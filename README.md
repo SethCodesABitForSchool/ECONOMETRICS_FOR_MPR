@@ -1,6 +1,7 @@
 # Lectures
 - ECON4490 - November 23
 - the assignment is due on the 30th of november: Enders Ch..4 Problems 8 and 9.
+- the presentation is a week from today, that is next thursday, the 30th I presume. 
 
 # Agumented model
 
