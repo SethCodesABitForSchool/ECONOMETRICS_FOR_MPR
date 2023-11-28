@@ -31,8 +31,14 @@
 
 
 
+- data manipulation - the shocks will be given 
+- SVAR - is what we have to run and quantify the 
+- the variance decoposition 
+- the impulse responses
+- wtf is he saying lol
+- what are the efffects of the CPI abd 
 
-
+https://www.aptech.com/blog/understanding-and-solving-the-structural-vector-autoregressive-identification-problem/
 
 
 
