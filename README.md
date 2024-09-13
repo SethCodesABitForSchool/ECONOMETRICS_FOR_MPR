@@ -1,4 +1,4 @@
-# Lectures
+# AGUMENTED MODEL
 
 - the presentation is a week from today, that is next thursday, the 30th I presume. 
 
@@ -18,7 +18,7 @@
 12. the filter is penalising the quadratic trend. like it is penalizing the diffeneces in the growth rate and in the level. the smoothing parameter or the lamda.
 13. HP filter or the detrending filter, lamda is the smoothening parameter. 
 
-# Assignment 4: Problems 8 and 9.
+# Problems 8 and 9.
 
 **Question 8:**
 
